@@ -12,7 +12,7 @@
 @implementation FMDatabase
 @synthesize cachedStatements=_cachedStatements;
 @synthesize logsErrors=_logsErrors;
-@synthesize crashOnErrors=_crashOnErrors;
+@synthesize crashOnErrors=_crashOnErrors;4444
 @synthesize checkedOut=_checkedOut;
 @synthesize traceExecution=_traceExecution;
 
